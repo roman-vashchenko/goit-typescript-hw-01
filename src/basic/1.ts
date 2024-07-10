@@ -1,4 +1,3 @@
-console.log(123);
 const age: number = 50;
 const username: string = "Max";
 const toggle: boolean = true;
